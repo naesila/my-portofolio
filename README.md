@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Generate website code
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# my-portofolio
+>>>>>>> eac1a7f5c4f84373e1e7b0309b8ee8153e16ba71
